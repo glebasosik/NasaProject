@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NasaProject</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="choose_time">Выберите время</string>
+    <string name="error">"Ошибка загрузки данных "</string>
+</resources>
